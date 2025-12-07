@@ -1,4 +1,4 @@
-Advent 2025
+2025 - python
 
 Run with the day of the puzzle
 
