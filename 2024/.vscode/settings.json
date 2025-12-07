@@ -1,0 +1,16 @@
+{
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#160B98",
+        "titleBar.activeBackground": "#1F10D4",
+        "titleBar.activeForeground": "#FCFCFF"
+    },
+    "prettier.printWidth": 180,
+    "prettier.bracketSpacing": false,
+    "prettier.quoteProps": "preserve",
+    "prettier.singleQuote": true,
+    "prettier.endOfLine": "lf",
+    "prettier.tabWidth": 4
+}
